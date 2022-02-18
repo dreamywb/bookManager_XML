@@ -1,0 +1,14 @@
+<users>
+<user>
+   <id>1</id>
+   <name>홍길동</name>
+</user>
+<user>
+   <id>2</id>
+   <name>고길동</name>
+</user>
+<user>
+   <id>3</id>
+   <name>김길동</name>
+</user>
+</users>

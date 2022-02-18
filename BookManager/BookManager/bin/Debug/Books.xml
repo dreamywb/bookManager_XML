@@ -1,0 +1,22 @@
+<books>
+<book>
+   <isbn>1234</isbn>
+   <name>C#의 기초</name>
+   <publisher>어딘가</publisher>
+   <page>100</page>
+   <borrowedAt>2022-02-18 오후 3:28:11</borrowedAt>
+   <isBorrowed>1</isBorrowed>
+   <userId>1</userId>
+   <userName>홍길동</userName>
+</book>
+<book>
+   <isbn>4321</isbn>
+   <name>JAVA의 기초</name>
+   <publisher>어딘가</publisher>
+   <page>300</page>
+   <borrowedAt>0001-01-01 오전 12:00:00</borrowedAt>
+   <isBorrowed>0</isBorrowed>
+   <userId>0</userId>
+   <userName></userName>
+</book>
+</books>
